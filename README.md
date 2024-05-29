@@ -31,8 +31,8 @@ principais comandos javascript] em um estilo, [informal e descontraido, como se 
 um influencer de tecnologia]
 
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+---
+---
 
 Prompt com a tecnica 3R (Usando campos semânticos e variavéis)
 - RESUMO
@@ -40,7 +40,7 @@ Prompt com a tecnica 3R (Usando campos semânticos e variavéis)
 - REGRAS
 
 ### USANDO A TÉCNICA DE ROTEIRO
-======================================================================
+----
 PROMPT A SER DGITADO NO CHART GPT
 
 Me escreva um artigo sobre primeiros passos no docker, em tom de conversa com uma criança de 14 anos.
@@ -85,7 +85,7 @@ ATUAÇÃO COM REGRAS:
 ---
 
 
-### 1) Vamos utilizar de prompts para gerar um e-book
+### 1) Vamos utilizar prompts para gerar um e-book
 
 ### 2) Utilizando do ChatGPT vamos ao prompt de conversa e gerando primeiramente nosso título chamativo
 
@@ -127,4 +127,17 @@ Faça um texto para o e-book "Flutter Adventure: Instale, Codifique, Jogue", com
 ### 7) Gerando o prompt para a IA codificar em linguagem Flutter um jogo da velha
 
 Abaixo envio um Código comentado sobre como criar um Jogo da Velha em Java, gostaria de implementar o mesmo jogo, no ebook, porem logicamente em flutter, separar o conteúdo do passo a passo em 5 capitulos
+
+
 (codigo)
+
+
+### 8) Diagramação com power point, utilando de recursos que poucos conhecem
+
+Foi feita a diagramação de todo o e-book com o mricrosoft power point, sei que existe ferramentas com caracteristicas melhores para esta tarefa.
+
+Mas usar o power point para esta tarefa demorou apenas 40 minutos, e fiquei feliz com o resultado.
+
+
+
+
