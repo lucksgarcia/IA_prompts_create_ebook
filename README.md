@@ -84,7 +84,7 @@ ATUAÇÃO COM REGRAS:
 ---
 
 <p align="center">
-    <img width="250" src="Capa_final.JPG">
+    <img width="650" src="desenvolvimento.png">
 </p>
 
 
