@@ -160,8 +160,8 @@ Mas usar o power point para esta tarefa demorou apenas 40 minutos, e fiquei feli
 
 ## 📚 Documentação originadas de meus insights 
 
-- [x] Arquivo do E-Book no formato Power Point editável [Clique](https://github.com/lucksgarcia/IA_prompts_create_ebook/output/FLUTTER ADVENTURE_Ebook.pptx)
-- [x] E-Book em formato pdf, para leitura e aprendizado [Leia](https://github.com/lucksgarcia/IA_prompts_create_ebook/output/FLUTTER ADVENTURE_Ebook.pdf)
+- [x] Arquivo do E-Book no formato Power Point editável <a href="https://github.com/lucksgarcia/IA_prompts_create_ebook/output/FLUTTER ADVENTURE_Ebook.pptx">📕Clique aqui para baixar</a>
+- [x] E-Book em formato pdf, para leitura e aprendizado <a href="https://github.com/lucksgarcia/IA_prompts_create_ebook/output/FLUTTER ADVENTURE_Ebook.pdf">📕Clique aqui para Ler</a>
 
 
 ### Gostou do que aprendeu? e lhe ajudei em algo, sinta-se a vontade e me pague um ☕ [cafezinho pix](d5c5d889-b8e3-46b9-8b66-83f3e96f2001)
