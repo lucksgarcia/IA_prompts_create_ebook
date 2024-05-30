@@ -157,6 +157,19 @@ Mas usar o power point para esta tarefa demorou apenas 40 minutos, e fiquei feli
     <img width="250" src="./assets/Capa_final.JPG">
 </p>
 
+## ✨ Features
+
+- Conteúdo gerado via ChatGPT
+- Imagens geradas via MidJourney
+
+## 📚 Materiais
+
+- Imagens utilizadas em `assets`
+- ebook gerado durante as aulas em `output`
+
+## 🛠️ Instruções de execução
+
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
 ## 📚 Documentação originadas de meus insights 
 
