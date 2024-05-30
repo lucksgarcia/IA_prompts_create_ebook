@@ -84,7 +84,7 @@ ATUAÇÃO COM REGRAS:
 ---
 
 <p align="center">
-    <img width="650" src="desenvolvimento.png">
+    <img width="650" src="./assets/desenvolvimento.png">
 </p>
 
 
@@ -154,14 +154,14 @@ Foi feita a diagramação de todo o e-book com o mricrosoft power point, sei que
 Mas usar o power point para esta tarefa demorou apenas 40 minutos, e fiquei feliz com o resultado.
 
 <p align="center">
-    <img width="250" src="Capa_final.JPG">
+    <img width="250" src="./assets/Capa_final.JPG">
 </p>
 
 
 ## 📚 Documentação originadas de meus insights 
 
-- [x] Arquivo do E-Book no formato Power Point editável [clique aqui](FLUTTER ADVENTURE_Ebook.pptx)
-- [x] E-Book em formato pdf, para leitura e aprendizado [clique aqui](FLUTTER ADVENTURE_Ebook.pdf)
+- [x] Arquivo do E-Book no formato Power Point editável [aqui](./output/FLUTTER ADVENTURE_Ebook.pptx)
+- [x] E-Book em formato pdf, para leitura e aprendizado [aqui](./output/FLUTTER ADVENTURE_Ebook.pdf)
 
 
 ### Gostou do que aprendeu? e lhe ajudei em algo, sinta-se a vontade e me pague um ☕ [cafezinho pix](d5c5d889-b8e3-46b9-8b66-83f3e96f2001)
