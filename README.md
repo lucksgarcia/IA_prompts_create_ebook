@@ -80,9 +80,24 @@ ATUAÇÃO COM REGRAS:
 >Sempre que eu lhe informar o que estou fazendo, faça um checklist resumido de boas praticas para a tarefa
 >Sempre que eu lhe informar o que estou fazendo, ao final me envie uma sugestão de código
 
-
-## AULA GPT FAZENDO UM E-BOOK
 ---
+---
+
+<p align="center">
+    <img width="250" src="Capa_final.JPG">
+</p>
+
+
+## Projeto EBOOK Gerado por I.A.s
+
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
+seguem abaixo.
+---
+### 💻 Tecnologias utilizadas no projeto
+
+- [ChatGPT](https://chat.openai.com/) 
+- [MidJourney](https://www.midjourney.com/app/)
+- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 
 ### 1) Vamos utilizar prompts para gerar um e-book
@@ -138,6 +153,17 @@ Foi feita a diagramação de todo o e-book com o mricrosoft power point, sei que
 
 Mas usar o power point para esta tarefa demorou apenas 40 minutos, e fiquei feliz com o resultado.
 
+<p align="center">
+    <img width="250" src="Capa_final.JPG">
+</p>
 
+
+## 📚 Documentação originadas de meus insights 
+
+- [x] Arquivo do E-Book no formato Power Point editável [clique aqui](FLUTTER ADVENTURE_Ebook.pptx)
+- [x] E-Book em formato pdf, para leitura e aprendizado [clique aqui](FLUTTER ADVENTURE_Ebook.pdf)
+
+
+### Gostou do que aprendeu? e lhe ajudei em algo, sinta-se a vontade e me pague um ☕ [cafezinho pix](d5c5d889-b8e3-46b9-8b66-83f3e96f2001)
 
 
