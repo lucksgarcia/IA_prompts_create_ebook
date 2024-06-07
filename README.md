@@ -183,6 +183,9 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 - [x] E-Book em formato pdf, para leitura e aprendizado <a href="https://github.com/lucksgarcia/IA_prompts_create_ebook/output/FLUTTER ADVENTURE_Ebook.pdf">📕Clique aqui para Ler</a>
 
 
-### Gostou do que aprendeu? e lhe ajudei em algo, sinta-se a vontade e me pague um ☕ [cafezinho pix](d5c5d889-b8e3-46b9-8b66-83f3e96f2001)
+### Gostou do que aprendeu? e se lhe ajudei em algo, sinta-se a vontade e me pague um ☕ 
+[cafezinho pix]
 
-
+<p align="center">
+    <img width="766" src="./assets/qrcode-pix.png">
+</p>
