@@ -102,7 +102,7 @@ seguem abaixo.
 ### 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Ideogram.ai](https://ideogram.ai/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 
@@ -166,7 +166,7 @@ Mas usar o power point para esta tarefa demorou apenas 40 minutos, e fiquei feli
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via ideogram
 
 ## 📚 Materiais
 
@@ -187,5 +187,5 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 [cafezinho pix]
 
 <p align="center">
-    <img width="766" src="./assets/qrcode-pix.png">
+    <img width="766" src="./assets/qrcode-pix-nu.png">
 </p>
